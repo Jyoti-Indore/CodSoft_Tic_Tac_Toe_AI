@@ -46,12 +46,10 @@ The AI simulates all possible game outcomes using the **Minimax algorithm**, ass
 
 ### ✅ Steps:
 
-1. Clone the repository:
-   ```bash
+1. Run the game:python tictactoe.py
 
-   ```
-2. Run the game:python tictactoe.py
-3. Enter positions (1–9) as shown:
+2. Enter positions (1–9) as shown:
+   
 1 | 2 | 3
 ---------
 4 | 5 | 6
